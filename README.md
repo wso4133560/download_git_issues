@@ -1,0 +1,2 @@
+# download_git_issues
+做github的issues爬取
