@@ -1,0 +1,117 @@
+pulls Info of 'Tars' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsDocker' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsWeb' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsCpp' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsJava' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsGo' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsFramework' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsProtocol' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TarsTup' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'tars-unittest' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'plugins' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'TSeer' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+
+pulls Info of 'DCache' :
+        Total count: 0
+        Closed count: 0
+        Opened count: 0
+        Merged count: 0
+        Average opening time: 0
+        Average opening time(Merged): 0
+        
+

@@ -1,0 +1,130 @@
+Issues Info of 'Tars' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsDocker' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsWeb' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsCpp' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsJava' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsGo' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsFramework' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsProtocol' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TarsTup' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'tars-unittest' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'plugins' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'TSeer' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
+Issues Info of 'DCache' :
+        total count: 0
+        closed count: 0
+        average opening time: 0
+        highest attention: None
+        max number of comment: 0
+        issue with longest handling time: None
+        longest handling time: 0:00:00
+        
+
